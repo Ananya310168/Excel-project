@@ -1,7 +1,11 @@
 # Excel-project
 
 Project Title: 📊 Vrinda Store Sales Data Analysis using Excel
+## Raw Sheet
+- a<a herf="https://github.com/Ananya310168/Excel-project/blob/main/Vrinda%20Store%20Data%20Analysis%20(1).xlsx">
 
+## Clean Datasheet
+- a<a herf="https://github.com/Ananya310168/Excel-project/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset view<a/>
 
 Description:
 This project presents a comprehensive analysis of Vrinda Store’s sales data using Microsoft Excel. The dataset was carefully cleaned, structured, and analyzed to uncover meaningful insights related to sales performance, customer purchasing patterns, and monthly trends. The goal of this project is to transform raw data into actionable insights that can support smarter business decisions.
@@ -17,6 +21,10 @@ Designed an interactive dashboard to present key insights in a user-friendly man
 
 Skills Used:
 Microsoft Excel, Data Analysis, Data Cleaning, Data Visualization, Problem Solving
+## Screenshot
+- a<a herf="https://github.com/Ananya310168/Excel-project/blob/main/Screenshot%20(43).png"><Dashboard view>
 
 Outcome:
 Developed an interactive and visually intuitive dashboard that provides clear insights into sales performance, highlights key trends, and enables better understanding of revenue patterns and business growth opportunities.
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/02a46b8a-071c-4864-bcd6-28d390b4d79e" />
+
